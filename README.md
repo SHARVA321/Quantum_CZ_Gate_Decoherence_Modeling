@@ -56,5 +56,5 @@ For a comprehensive understanding of the project, including detailed theoretical
 [Decoherence Modeling of a CZ Gate under Strong Magnetic Fields Report](docs/Decoherence_Modeling_CZ_Gate_Report.pdf)
 
 ## Contributors
-* Your Name (PES1UG22EC269)
+* Sharva Ranganath (PES1UG22EC269)
 * Aprameya Kulkarni (PES1UG22EC914)
